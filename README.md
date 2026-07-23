@@ -25,6 +25,7 @@ same biology to a global raster grid and to a post-nuclear-war climate scenario.
   this discrete implementation against the reference StellaR output (see "Known
   differences" below).
 - `data/Grid_latlong.csv` — the 20 paper grid coordinates, used for the validation extract.
+- The comparison scripts require the reference StellaR model outputs from Femeena & Brennan, which are not redistributed here; they are included to document the validation method.
 
 ## Installation and running
 
